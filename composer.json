@@ -15,7 +15,7 @@
     },
     "require": {
         "php": ">=8.0.2",
-        "propel/propel": "dev-master / 2.0.x-dev",
+        "propel/propel": "dev-master",
         "symfony/console": "^5.0||^6.0",
         "symfony/dependency-injection": "^6.0",
         "symfony/framework-bundle": "^6.0",
